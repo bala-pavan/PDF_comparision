@@ -1,0 +1,3 @@
+streamlit
+PyMuPDF
+langchain-google-genai
